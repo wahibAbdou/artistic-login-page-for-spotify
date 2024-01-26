@@ -23,4 +23,4 @@ During this project, my main objective revolved around designing an appealing lo
 - NGINX & Let's Encrypt & Bash Scripting
 
 ## Live Demo
-coming soon
+website link coming soon
